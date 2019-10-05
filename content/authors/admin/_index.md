@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Noam Hoffer
 
 # Username (this should match the folder name)
 authors:
@@ -10,18 +10,18 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Postdoctoral fellow
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Ben-Gurion University of the Negev
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Kant and Early Modern Philosophy.
 
 interests:
-- Artificial Intelligence
+- Kant
 - Computational Linguistics
 - Information Retrieval
 
