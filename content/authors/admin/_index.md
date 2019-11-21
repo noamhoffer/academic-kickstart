@@ -18,24 +18,28 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Kant and Early Modern Philosophy.
+bio: Postdoctoral fellow at Ben-Gurion University of the Negev
 
-interests:
+AOS:
 - Kant
-- Computational Linguistics
-- Information Retrieval
+- Early Modern Philosophy
+
+AOC:
+- Ethics 
+- Political Philosophy
+- Metaphysics
+- Aesthetics
+- Philosophy of Religion
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Philosophy
+    institution: Indiana University Bloomington
+    year: 2017
+  - course: M.A in Philosophy
+    institution: Tel-Aviv University
+    year: 2006
+   
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -45,31 +49,29 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+- icon: academia
+  icon_pack: ai
+  link: https://bgu.academia.edu/NoamHoffer
+- icon: philpapers
+  icon_pack: ai
+  link: https://philpeople.org/profiles/noam-hoffer
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://scholar.google.com/citations?user=vPtd60gAAAAJ
+- icon: cv
+  icon_pack: ai
+  link: cv.pdf
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
-user_groups:
-- Researchers
-- Visitors
+#user_groups:
+#- Researchers
+#- Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I'm currently a postdoctoral research fellow in the Department of Philosophy at Ben-Gurion University, Israel. My area of specialty is Kant and modern philosophy, though I have further interests and teaching experience in ethics, political philosophy, metaphysics, philosophy of religion, and aesthetics. I earned a Ph.D. in Philosophy from Indiana University, with a minor in Germanic Studies, in September 2017. I wrote my dissertation entitled “Kant’s Theoretical Conception of God” under the direction of Allen Wood. After that I was a postdoc at Bar-Ilan University, affiliated with Ohad Nachtomy’s project on the life sciences in early modern philosophy.
