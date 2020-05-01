@@ -53,7 +53,7 @@ subtitle = ""
 The nature of Kant’s criticism of his pre-Critical ‘possibility proof’ for the existence of God, implicit in the account of the Transcendental Ideal in the Critique of Pure Reason, is still under dispute. Two issues are at stake: the error in the proof and diagnosis of the reason for committing it. I offer a new way to connect these issues. In contrast with accounts that locate the motivation for the error in reason’s interest in an unconditioned causal ground of all contingent existence, I argue that it lies in reason’s interest in another kind of unconditioned ground, collective unity. Unlike the conception of the former, that of the latter directly explains the problematic ontological assumption of the possibility proof, the existence of intelligible objects as the ground of possibility. I argue that such Platonic entities are assumed because they are amenable to the kind of unity prescribed by reason. However, since the interest in collective unity has a legitimate regulative use when applied to the systematic unity of nature, the conception of God entailed by the possibility proof is retained as a regulative idea of reason.
 {{% /expand%}}
 
-- ["Kant's Regulative Metaphysics of God and the Systematic Lawfulness of Nature", The Southern Journal of Philosophy 57:2 (2019)](https://www.academia.edu/37294466/Kants_Regulative_Metaphysics_of_God_and_the_Systematic_Lawfulness_of_Nature)
+- ["Kant's Regulative Metaphysics of God and the Systematic Lawfulness of Nature" _The Southern Journal_ of Philosophy 57:2 (2019)](https://www.academia.edu/37294466/Kants_Regulative_Metaphysics_of_God_and_the_Systematic_Lawfulness_of_Nature)
 {{%expand "Abstract" %}}
 In the “Appendix to the Transcendental Dialectic” of the Critique of Pure 
 Reason, Kant contends that the idea of God has a positive regulative role in the 
@@ -71,7 +71,7 @@ conception of God for the project of science, and by expounding Kant’s critica
 account of the necessity of the laws of nature. Thus, my account sheds light on the 
 continuity of Kant’s conception of God and his appropriation of his own rationalistic metaphysics.
 {{% /expand%}}
-- [“The Relation between God and the World in the Pre-Critical Kant: was Kant a Spinozist?”, Kantian Review 21:2 (2016)]
+- [“The Relation between God and the World in the Pre-Critical Kant: was Kant a Spinozist?” _Kantian Review_ 21:2 (2016)]
 (https://www.academia.edu/14545047/The_Relation_between_God_and_the_World_in_the_Pre-Critical_Kant_was_Kant_a_Spinozist)
 {{%expand "Abstract" %}}
 Andrew Chignell and Omri Boehm have recently argued that Kant’s
