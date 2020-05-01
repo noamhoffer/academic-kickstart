@@ -48,7 +48,7 @@ subtitle = ""
 +++
 
 ## Publications
-- [“The Dialectical Illusion in Kant’s Only Possible Argument for the Existence of God” (forthcoming in _Kantian Review_)](https://www.academia.edu/41231419/The_Dialectical_Illusion_in_Kant_s_Only_Possible_Argument_for_the_Existence_of_God)
+- [“The Dialectical Illusion in Kant’s Only Possible Argument for the Existence of God” _Kantian Review_ 25:3 (2020)](https://www.academia.edu/41231419/The_Dialectical_Illusion_in_Kant_s_Only_Possible_Argument_for_the_Existence_of_God)
 {{%expand "Abstract" %}}
 The nature of Kant’s criticism of his pre-Critical ‘possibility proof’ for the existence of God, implicit in the account of the Transcendental Ideal in the Critique of Pure Reason, is still under dispute. Two issues are at stake: the error in the proof and diagnosis of the reason for committing it. I offer a new way to connect these issues. In contrast with accounts that locate the motivation for the error in reason’s interest in an unconditioned causal ground of all contingent existence, I argue that it lies in reason’s interest in another kind of unconditioned ground, collective unity. Unlike the conception of the former, that of the latter directly explains the problematic ontological assumption of the possibility proof, the existence of intelligible objects as the ground of possibility. I argue that such Platonic entities are assumed because they are amenable to the kind of unity prescribed by reason. However, since the interest in collective unity has a legitimate regulative use when applied to the systematic unity of nature, the conception of God entailed by the possibility proof is retained as a regulative idea of reason.
 {{% /expand%}}
