@@ -47,7 +47,7 @@ subtitle = ""
  #css_class = ""
 +++
 ### Levinsky College of Education 
- Philosophical Perspectives in Education / mandatory undergraduate, Fall 2019, Spring & Summer 2020 
+ Philosophical Perspectives in Education / mandatory undergraduate, Fall 2019, Spring - Summer 2020 
 
 ### Bar-Ilan University
 - Kant’s Critique of Pure Reason: Advanced undergraduate / graduate seminar, Spring 2019
