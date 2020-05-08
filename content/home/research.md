@@ -71,8 +71,7 @@ conception of God for the project of science, and by expounding Kant’s critica
 account of the necessity of the laws of nature. Thus, my account sheds light on the 
 continuity of Kant’s conception of God and his appropriation of his own rationalistic metaphysics.
 {{% /expand%}}
-- [“The Relation between God and the World in the Pre-Critical Kant: was Kant a Spinozist?” _Kantian Review_ 21:2 (2016)]
-(https://www.academia.edu/14545047/The_Relation_between_God_and_the_World_in_the_Pre-Critical_Kant_was_Kant_a_Spinozist)
+- ["The Relation between God and the World in the Pre-Critical Kant: was Kant a Spinozist?" _Kantian Review_ 21:2 (2016)](https://www.academia.edu/14545047/The_Relation_between_God_and_the_World_in_the_Pre-Critical_Kant_was_Kant_a_Spinozist)
 {{%expand "Abstract" %}}
 Andrew Chignell and Omri Boehm have recently argued that Kant’s
 pre-Critical proof for the existence of God entails a Spinozistic conception
@@ -94,8 +93,7 @@ distinction between the intelligible and the sensible worlds.
 - “Kant’s Religion and the Reflective Judgment” In Margit Ruffing, Claudio La Rocca, Alfredo Ferrarin & Stefano Bacin (eds.), Kant Und Die Philosophie in Weltbürgerlicher Absicht: Akten des Xi. Kant-Kongresses 2010. De Gruyter. (2013)
 
 ## Book Reviews
-- [Review of Edward Kanterian, Kant, God and Metaphysics: The Secret Thorn (Routledge 2017), The European Journal of Philosophy 27:3 (2019)] (https://www.academia.edu/41005003/Review_of_Kant_God_and_Metaphysics_The_Secret_Thorn_by_Edward_Kanterian_Routledge_2017_xvii_444_pp._ISBN_10_13_9781138908581_hb_110_ISBN_10_13_9780203729588_eBook_35.99)
-
+- [Review of Edward Kanterian, Kant, God and Metaphysics: The Secret Thorn (Routledge 2017), The European Journal of Philosophy 27:3 (2019)](https://www.academia.edu/41005003/Review_of_Kant_God_and_Metaphysics_The_Secret_Thorn_by_Edward_Kanterian_Routledge_2017_xvii_444_pp._ISBN_10_13_9781138908581_hb_110_ISBN_10_13_9780203729588_eBook_35.99)
 
 ## Work In Progress
 - “Kant’s Teleology as the ‘True Apology’ to Leibniz’s Pre-Established Harmony” (under review)
