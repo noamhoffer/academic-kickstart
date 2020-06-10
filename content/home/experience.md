@@ -18,7 +18,16 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Postdoc"
+  title = "Lecturer"
+  company = "Levinsky College of Education"
+  company_url = ""
+  location = "Israel"
+  date_start = "2019-10-01"
+  date_end = ""
+  description ="Lecturer in Philosophy of Education"
+
+[[experience]]
+  title = "Kreitman Postdoctoral Fellow"
   company = "Ben-Gurion University"
   company_url = ""
   location = "Israel"
