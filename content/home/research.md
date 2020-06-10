@@ -95,8 +95,8 @@ distinction between the intelligible and the sensible worlds.
 ## Book Reviews
 - [Review of Edward Kanterian, Kant, God and Metaphysics: The Secret Thorn (Routledge 2017), The European Journal of Philosophy 27:3 (2019)](https://www.academia.edu/41005003/Review_of_Kant_God_and_Metaphysics_The_Secret_Thorn_by_Edward_Kanterian_Routledge_2017_xvii_444_pp._ISBN_10_13_9781138908581_hb_110_ISBN_10_13_9780203729588_eBook_35.99)
 
-## Work In Progress
-- “Kant’s Teleology as the ‘True Apology’ to Leibniz’s Pre-Established Harmony” (under review)
+## Articles under review
+- “Kant’s Teleology as the ‘True Apology’ to Leibniz’s Pre-Established Harmony”
 {{%expand "Abstract" %}}
 Should we take seriously Kant’s claim that his critical philosophy is the ‘true apology for Leibniz’? By exploring Kant’s attitude towards Leibniz’s doctrine of pre-established harmony, I argue that we should take it seriously because it sheds light on the development of Kant’s view about the role of teleology in science in general and in the life sciences in particular. I first present the general framework through which Kant appropriates Leibnizian doctrines as regulative ideals.  I then address Kant’s pre-critical engagement with pre-established harmony. While he rejected it as an account of causal relations between substances, he made extensive references to harmony between laws of nature. I argue that the critical development of this type of harmony allows Kant to appreciate one of Leibniz’s motivations in arguing for pre-established harmony, the compatibility of mechanistic and teleological causal laws. Finally, I show how this affinity becomes explicit in the Critique of the Power of Judgment in Kant’s novel position on the legitimacy of teleological explanations of organisms. I demonstrate this by pointing to Kant’s complex attitude towards 18th century theories of epigenesis.
 {{% /expand%}}
@@ -104,7 +104,10 @@ Should we take seriously Kant’s claim that his critical philosophy is the ‘t
 {{%expand "Abstract" %}}
 In his 1785 book ‘Morning hours’, Moses Mendelssohn presents a proof for the existence of God from the grounding of possibility. Although Mendelssohn claims that this proof is original, it has not received much attention in the secondary literature.  In this paper, I will analyze this proof and present its historical context. I will show that although it resembles Leibniz’s proof from eternal truths and Kant’s pre-critical possibility proof, it has unique characteristics which can be regarded as responses to deficiencies Mendelssohn identified in these earlier proofs. I argue that by analyzing the semantics of judgments about dispositions, Mendelssohn provides a novel explanation for the basic premise shared by these proofs, namely that possibility is grounded in actuality. Additionally, this analysis simplifies the inference to a unique infinite mind grounding all possibility. Thus the proof is worth studying both for historical reasons and for its original account of modal concepts.
 {{% /expand%}}
+
+## Work in progress
 - "Kantian Hope and Political Activism"
+- “Kant’s Regulative Essentialism and the Unknowability of Real Essences”
 
 ## Dissertation 
 Title: Kant's Theoretical Conception of God
@@ -118,7 +121,7 @@ Title: Kant's Theoretical Conception of God
 {{%expand "History of Philosophy"%}}
 ​Extending my work on Kant’s philosophy of religion, I am planning to work on the following papers. One is a paper about the role of God in the Critique of the Power of Judgment. I explain why the faculty of reflective judgment is introduced as an addition to the faculty of reason by relating it to the notion of God as an intuitive intellect. A second paper is about the relation between Kant’s moral and theoretical conceptions of God. While acknowledging Kant’s repeated claims about the superiority of the moral conception over the theoretical one, I argue that the latter informs in a significant way the former regarding its content and its epistemic status. 
 
-In addition to Kant, I am interested in working on less-researched figures in late 18th and early 19th century German philosophy. One paper I plan is about Moses Mendelssohn’s proof for the existence of God in the Morning Hours. Mendelssohn claims that this proof is entirely original, yet it has received little attention in the literature. My paper will reconstruct this proof in detail, situating it in a class of proofs which includes Leibniz’s proof from eternal truths and Kant’s pre-critical possibility proof. I will argue that Mendelssohn’s original proof responds to shortcomings found in the latter proofs. In another paper, I plan to explore the theological position of Lessing’s Christianity of Reason and Mendelssohn’s charitable appropriation of it. I suggest that these texts present an interesting theological alternative vis-à-vis Kant on the one hand and rationalism on the other hand. 
+In addition to Kant, I am interested in working on less-researched figures in late 18th and early 19th century German philosophy. One article under review is about Moses Mendelssohn’s proof for the existence of God in the Morning Hours (see above). In another paper, I plan to explore the theological position of Lessing’s Christianity of Reason and Mendelssohn’s charitable appropriation of it in the Morning Hours. I suggest that these texts present an interesting theological alternative vis-à-vis Kant on the one hand and rationalism on the other hand. 
 {{% /expand%}}
 
 {{%expand "Practical Philosophy"%}}
@@ -134,9 +137,11 @@ In addition to the above plans, I am interested in applying my 15 years’ exper
 {{% /expand%}}
 
 ## Selected presentations
+- “Kant’s Regulative Essentialism and the Unknowability of Real Essences”
+  -	5th Biennial Meeting of the North American Kant Society, Binghamton University, 5-8 June 2020 (online)
 - “Mendelssohn’s Unique Proof for the Existence of God”
   - Israeli Philosophical Association Conference, Bar-Ilan, 13 Feb 2019
-  - 2020 APA Pacific Division Meeting, San-Francisco 8-11 Apr 2020
+  - 2020 APA Pacific Division Meeting, San-Francisco 8-11 Apr 2020 (cancelled)
 - “Kantian Hope and Political Activism”
   - European Consortium for Political Research General Conference, Kantian Political Thought standing group, Universität Hamburg, Aug 22-25 2018
 - “The Critique of the Power of Judgment as the ‘True Apology’ to Leibniz”
