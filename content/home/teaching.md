@@ -46,17 +46,21 @@ subtitle = ""
  # CSS class.
  #css_class = ""
 +++
+## Teaching Experience
 ### Levinsky College of Education 
  Philosophical Perspectives in Education / mandatory undergraduate, Fall 2019, Spring - Summer 2020 
 
 ### Bar-Ilan University
 - Kant’s Critique of Pure Reason: Advanced undergraduate / graduate seminar, Spring 2019
 - Conceptions of God in Early Modern Philosophy: Advanced undergraduate / graduate seminar, Yearly 2017-18
+{{% staticref "/syllabi/Conceptions of God syllabus.pdf" "newtab" %}}(Syllabus){{% /staticref %}}
 
 ### Indiana University
 #### ​Instructor (full course responsibilities):
 - Introduction to Social/Political Philosophy, Fall 2016
+{{% staticref "/syllabi/p145 syllabus.pdf" "newtab" %}}(Syllabus){{% /staticref %}}
 - Introduction to Ethics, Spring 2014
+{{% staticref "/syllabi/p140 syllabus.pdf" "newtab" %}}(Syllabus){{% /staticref %}}
 
 #### Associate Instructor (leading discussion sections and grading):
 - Introduction to Philosophy, Spring 2017 (Frederick Schmitt)
@@ -68,6 +72,7 @@ subtitle = ""
 ### Tel-Aviv University
 #### Instructor (full course responsibilities):
 - Bounds of Hope – Kant’s Philosophy of Religion: Fall 2008
+{{% staticref "/syllabi/Bounds of hope syllabus.pdf" "newtab" %}}(Syllabus){{% /staticref %}}
 - Intermediate Aesthetics (Kant & Schopenhauer): Fall 2006
 
 #### Teaching Assistant (leading discussion sections, designing assignments and grading):
@@ -77,3 +82,10 @@ subtitle = ""
 
 #### Grader:
 - 19th Century Philosophy: Spring 2008 (Eli Friedlander)
+
+## Proposed Courses
+- Ethics, Justice and Activism
+{{% staticref "/syllabi/Ethics Activism syllabus.pdf" "newtab" %}}(Syllabus){{% /staticref %}}
+- Introduction to Aesthetics
+{{% staticref "/syllabi/Aesthetics Syllbus.pdf" "newtab" %}}(Syllabus){{% /staticref %}}
+
