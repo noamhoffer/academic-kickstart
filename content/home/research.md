@@ -133,7 +133,12 @@ The second project I plan to pursue applies the Kantian critique of metaphysics 
 {{% /expand%}}
 
 {{%expand "Digital Humanities"%}}
-In addition to the above plans, I am interested in applying my 15 years’ experience in software engineering to explore new research in Digital Humanities. In my work I use extensively the online version of Kant’s gesammelte Schriften, utilizing tools I develop to improve its functionality. For example, I am building a database of Kant's handwritten notes (Reflexionen) adding visualizations of date ranges and cross-references to the location of the notes in Kant’s books. I intend to make the tool publicly available through a web interface. I plan to develop further digital research on historical texts, collaborate on interdisciplinary projects, and take part in propagating the methodologies of the Digital Humanities.
+Using my 15 years of experience in software engineering  I started to develop new research projects in Digital Humanities. 
+
+__Data visualization and research tools:__ My extensive use of the online version of Kant’s gesammelte Schriften archive led me to design various tools to improve its functionality. For example, I plan to build a database of Kant's handwritten notes (Reflexionen) adding visualizations of date ranges and cross-references to the location of the notes inside the books Kant owned (for example Baumgarten’s Metaphysics). I intend to make the tool publicly available through a web interface.  
+
+__Historical research using computational methods:__ A planned project applies the categorization of the PhilPapers database with textual topic modeling to analyze historical trends in Kant and early modern scholarship. By tracking the evolution of topics and their fluctuating significance over time in journal articles, I will be able to assess presumed trends, for example the rise of metaphysical readings of transcendental idealism, Kant’s philosophy of empirical sciences and his social-political philosophy. 
+
 {{% /expand%}}
 
 ## Selected presentations
