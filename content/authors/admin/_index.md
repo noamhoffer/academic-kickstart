@@ -10,15 +10,15 @@ authors:
 superuser: true
 
 # Role/position
-role: Postdoctoral fellow
+role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
-- name: Ben-Gurion University of the Negev
+- name: Bar-Ilan University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Postdoctoral fellow at Ben-Gurion University of the Negev
+bio: Assistant Professor at Bar-Ilan University
 
 AOS:
 - Kant
@@ -51,7 +51,7 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: academia
   icon_pack: ai
-  link: https://bgu.academia.edu/NoamHoffer
+  link: https://biu.academia.edu/NoamHoffer
 - icon: philpapers
   icon_pack: ai
   link: https://philpeople.org/profiles/noam-hoffer
@@ -74,4 +74,4 @@ email: ""
 #- Visitors
 ---
 
-I'm currently a postdoctoral research fellow in the Department of Philosophy at Ben-Gurion University, Israel. My area of specialty is Kant and modern philosophy, though I have further interests and teaching experience in ethics, political philosophy, metaphysics, philosophy of religion, and aesthetics. I earned a Ph.D. in Philosophy from Indiana University, with a minor in Germanic Studies, in September 2017. I wrote my dissertation entitled “Kant’s Theoretical Conception of God” under the direction of Allen Wood. After that I was a postdoc at Bar-Ilan University, affiliated with Ohad Nachtomy’s project on the life sciences in early modern philosophy.
+I'm an assistant Professor in the Department of Philosophy at Bar-Ilan University, Israel. My area of specialty is Kant and early modern philosophy, though I have further interests and teaching experience in ethics, political philosophy, metaphysics, philosophy of religion, and aesthetics. I earned a Ph.D. in Philosophy from Indiana University in September 2017. I wrote my dissertation entitled “Kant’s Theoretical Conception of God” under the direction of Allen Wood.
