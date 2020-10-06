@@ -47,13 +47,14 @@ subtitle = ""
  #css_class = ""
 +++
 ## Teaching Experience
+### Bar-Ilan University
+- History of Modern Philosophy from Descartes to Kant: undergraduate, Yearly 2020-21
+- Kant’s Critique of Pure Reason: Advanced undergraduate / graduate seminar, Spring 2019, Yearly 2020-21
+- Conceptions of God in Early Modern Philosophy: Advanced undergraduate / graduate seminar, Yearly 2017-18, Yearly 2020-21
+{{% staticref "/syllabi/Conceptions of God syllabus.pdf" "newtab" %}}(Syllabus){{% /staticref %}}
+
 ### Levinsky College of Education 
  Philosophical Perspectives in Education / mandatory undergraduate, Fall 2019, Spring - Summer 2020 
-
-### Bar-Ilan University
-- Kant’s Critique of Pure Reason: Advanced undergraduate / graduate seminar, Spring 2019
-- Conceptions of God in Early Modern Philosophy: Advanced undergraduate / graduate seminar, Yearly 2017-18
-{{% staticref "/syllabi/Conceptions of God syllabus.pdf" "newtab" %}}(Syllabus){{% /staticref %}}
 
 ### Indiana University
 #### ​Instructor (full course responsibilities):
