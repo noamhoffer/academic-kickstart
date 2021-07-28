@@ -115,7 +115,7 @@ In his 1785 book ‘Morning hours’, Moses Mendelssohn presents a proof for the
 {{% /expand%}}
 
 ## Work in progress
-- "Kantian Hope and Political Activism"
+- "Collective Hope and Political Activism"
 - “Kant’s Regulative Essentialism and the Unknowability of Real Essences”
 
 ## Dissertation 
