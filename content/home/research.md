@@ -47,6 +47,15 @@ subtitle = ""
  css_class = ""
 +++
 
+## Research Grants
+- "Kant's Regulative Metaphysics" (ISF 2907/21)
+{{%expand "Short description" %}}
+The goal of this project is to develop an interpretation of Kant’s doctrine of regulative ideas as an account about the meaningfulness of certain metaphysical theories. The upshot of the proposed account is that certain metaphysical theories are meaningful not because they express beliefs about determinate facts, but rather because they express rational norms of how we ought to explain reality. I label this account Regulative Metaphysics. The project has both an exegetical objective in uncovering overlooked aspects in Kant’s doctrine of regulative ideas, as well as a philosophical objective in presenting a novel way to assess contemporary debates in metaphysics. 
+Kant claims that human reason has an interest in ultimate explanations and possesses regulative principles directing progress towards such explanations. In his criticism of rationalistic metaphysics, Kant contends that these interests result in the illusory pretensions to attain knowledge of God, the world-whole and the soul. But those entities are appropriated to receive a new role as regulative ideas of reason. The role of the regulative principles of reason for scientific inquiry has been discussed in great lengths in the literature. But the relation between the regulative principles of reason and the specific metaphysical content of the ideas of reason is yet to be fully appreciated. In this project I aim to show that understanding this relation is central for a comprehensive explication of the doctrine of the regulative use of reason and for Kant’s view on metaphysics in general. The central claim is that those metaphysical conceptions are meaningful in virtue of their being an expression of the regulative principles. Therefore, the metaphysical content has a bearing on the correct interpretation of the principles.
+The project is divided into the following three sub-projects. In the first I will develop the account of regulative metaphysics from Kant’s doctrine of the ideas of reason. This includes both an exegetical thesis about the roots of the doctrine in the pre-critical period, as well as a reconstruction of the expressive nature of the use of regulative ideas in Kant’s critical works. In the second I will use this account to interpret other metaphysical issues in Kant’s later works, mainly in the philosophy of natural science and practical philosophy. In the third subproject I will apply my account to contemporary debates in analytic metaphysics related to truthmaking, grounding, and fundamentality, showing how controversies express differences in explanation norms. 
+The main methodology of this project is a combination of historical contextualization and systematic reconstruction of the relevant historical texts. Additionally, parts of this project will make use of digital humanities methodologies and will involve developing tools for visualizations of cross references in the corpus and analysis of historical trends in Kant scholarship.
+{{% /expand%}}
+
 ## Publications
 - [“The Dialectical Illusion in Kant’s Only Possible Argument for the Existence of God” _Kantian Review_ 25:3 (2020)](https://www.academia.edu/41231419/The_Dialectical_Illusion_in_Kant_s_Only_Possible_Argument_for_the_Existence_of_God)
 {{%expand "Abstract" %}}
@@ -128,9 +137,6 @@ In addition to Kant, I am interested in working on less-researched figures in la
 In one project inspired by Kant’s account of hope, I wish to investigate the role of hope in political activism. While there is a growing body of philosophical literature exploring the nature of hope, an account of the social-political dimensions of hope is still lacking. I suggest that hope figures not only in the attitudes of individuals involved in political activity, but that it is also required for characterizing the collective nature of activism and its ends. A standard account of hope analyzes it to include the belief that a desired outcome is possible though not certain. While hope does not depend on a judgment of probability, it can be responsive to evidence, increasing in light of ‘signs for hope’. Thus by utilizing Kant’s account of reflective judgment, I maintain that hope also involves a second-order disposition to look for and be receptive to such signs. Therefore, I augment the account of hope with a collective element which is the act of creating signs of hope in the public sphere. In the context of political action, this means creating signs for the possibility of social change. Taking a cue from Kant’s principle of the purposiveness of nature, I suggest transposing it to signs of hope in the social realm in the following ways. One type of sign is the formation of solidarity between disadvantaged groups which have seemingly unrelated interests. That would be a sign that a shared vision of justice is realizable through collective political action. A second type is the emergence of internal organization, for example in unionization or local grassroots campaigns. In addition to the immediate causes, such activities are signs for the very possibility of collective political agency. Thus the outcomes of solidarity and agency are valued not only instrumentally for specific policy changes but also because they foster in the agents of change and their intended audience the hope that political action can make a difference. 
 {{% /expand%}}
 
-{{%expand "Metaphysics"%}}
-The second project I plan to pursue applies the Kantian critique of metaphysics to contemporary analytic metaphysics. In my work on Kant’s doctrine of regulative ideas, I show how certain metaphysical theories are meaningful not because they provide knowledge about what reality is like, but rather in virtue of expressing how we ought to think about reality according to rational norms. I propose that this account of Kantian regulative metaphysics can provide a new framework for understanding various debates related to truthmaking, grounding, and fundamentality. These debates revolve around the question whether there are facts or entities that are more fundamental than others in explaining features of reality, and if there are, what are they and what is the nature of this explanatory grounding relation. By applying the notion of regulative metaphysics, I suggest that some disputes are substantial, i.e., not merely verbal, even though there is no fact of the matter that allows their resolution. For example discussions of grounding and fundamentality often appeal to various criteria such as explanatory completeness, parsimony, and naturalness. Yet the justification of those principles and the knowledge they afford is usually unaccounted for. Kant’s regulative metaphysics provides an example of how to make explicit the interests underlying disputed metaphysical theories and grant them significance in virtue of different types of explanatory norms.
-{{% /expand%}}
 
 {{%expand "Digital Humanities"%}}
 Using my 15 years of experience in software engineering  I started to develop new research projects in Digital Humanities. 
@@ -142,13 +148,13 @@ __Historical research using computational methods:__ A planned project applies t
 {{% /expand%}}
 
 ## Selected presentations
+- "Collective Hope and Political Activism"
+  - Israeli Philosophical Association Conference, Open-U Raanana, 8 Jul 2021
 - “Kant’s Regulative Essentialism and the Unknowability of Real Essences”
   -	5th Biennial Meeting of the North American Kant Society, Binghamton University, 5-8 June 2020 (online)
 - “Mendelssohn’s Unique Proof for the Existence of God”
   - Israeli Philosophical Association Conference, Bar-Ilan, 13 Feb 2019
-  - 2020 APA Pacific Division Meeting, San-Francisco 8-11 Apr 2020 (cancelled)
-- “Kantian Hope and Political Activism”
-  - European Consortium for Political Research General Conference, Kantian Political Thought standing group, Universität Hamburg, Aug 22-25 2018
+  - 2021 APA Pacific Division Meeting, online 5-10 Apr 2021
 - “The Critique of the Power of Judgment as the ‘True Apology’ to Leibniz”
   * North American Kant Society Eastern Study Group, Columbia University NYC, May 4-5 2018
   * Leuven Kant Conference, KU Leuven, May 31-Jun 1 2018
