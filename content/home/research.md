@@ -148,6 +148,10 @@ __Historical research using computational methods:__ A planned project applies t
 {{% /expand%}}
 
 ## Selected presentations
+- "Explanatory Harmony" (Panel on Leibniz's pre-established with Uri Eran, Reed Winegar and Ohad Nachtomy)
+  - Israeli Philosophical Association Conference, Hebrew U Jerusalem, 30 Jun 2022
+- "The Unity of Kant's Attitude Toward Leibniz's Pre-Established Harmony"
+  - Workshop on Teleology, Mechanism, and the Mind-Body Problem between Leibniz and Kant, Technion, 23-25 May 2022
 - "Collective Hope and Political Activism"
   - Israeli Philosophical Association Conference, Open-U Raanana, 8 Jul 2021
 - “Kant’s Regulative Essentialism and the Unknowability of Real Essences”
@@ -155,6 +159,7 @@ __Historical research using computational methods:__ A planned project applies t
 - “Mendelssohn’s Unique Proof for the Existence of God”
   - Israeli Philosophical Association Conference, Bar-Ilan, 13 Feb 2019
   - 2021 APA Pacific Division Meeting, online 5-10 Apr 2021
+  - Berlin-Hamburg Workshop in Early-Modern Philosophy, 12-13 May 2022
 - “The Critique of the Power of Judgment as the ‘True Apology’ to Leibniz”
   * North American Kant Society Eastern Study Group, Columbia University NYC, May 4-5 2018
   * Leuven Kant Conference, KU Leuven, May 31-Jun 1 2018
