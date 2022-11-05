@@ -120,7 +120,7 @@ Should we take seriously Kant’s claim that his critical philosophy is the ‘t
 
 ## Work in progress
 - "Collective Hope and Political Activism"
-- “Kant’s Regulative Essentialism and the Unknowability of Real Essences”
+- “A Norm-Expressivist Account of Kant’s Regulative Ideas”
 
 ## Dissertation 
 Title: Kant's Theoretical Conception of God
