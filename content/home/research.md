@@ -119,8 +119,8 @@ Should we take seriously Kant’s claim that his critical philosophy is the ‘t
 {{% /expand%}}
 
 ## Work in progress
-- "Collective Hope and Political Activism"
 - “A Norm-Expressivist Account of Kant’s Regulative Ideas”
+- “Collective Hope and Political Activism”
 
 ## Dissertation 
 Title: Kant's Theoretical Conception of God
