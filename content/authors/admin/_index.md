@@ -60,7 +60,7 @@ social:
   link: https://scholar.google.com/citations?user=vPtd60gAAAAJ
 - icon: cv
   icon_pack: ai
-  link: cv.pdf
+  link: Noam-Hoffer-CV.pdf
 - icon: publons
   icon_pack: ai
   link: https://publons.com/researcher/1371233/noam-hoffer/peer-review/
