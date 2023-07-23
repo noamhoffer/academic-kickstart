@@ -114,8 +114,8 @@ Should we take seriously Kant’s claim that his critical philosophy is the ‘t
 {{% /expand%}}
 
 ## Book Reviews
+- Review of Ian Proops, The Fiery Test of Critique: A Reading of Kant's Dialectic (OUP 2021), Archiv für Geschichte der Philosophie (forthcoming)
 - [Review of Edward Kanterian, Kant, God and Metaphysics: The Secret Thorn (Routledge 2017), The European Journal of Philosophy 27:3 (2019)](https://www.academia.edu/41005003/Review_of_Kant_God_and_Metaphysics_The_Secret_Thorn_by_Edward_Kanterian_Routledge_2017_xvii_444_pp._ISBN_10_13_9781138908581_hb_110_ISBN_10_13_9780203729588_eBook_35.99)
-- Review of Edward Kanterian, Kant, God and Metaphysics: The Secret Thorn (Routledge 2017), The European Journal of Philosophy, 27:3 (2019).
 
 ## Work in progress
 - “Reconciling Best-System and Necessitation accounts of Kant on particular laws of nature”
