@@ -108,17 +108,17 @@ transition into the Critical system, where it is transformed into the
 distinction between the intelligible and the sensible worlds.
 {{% /expand%}}
 - “Kant’s Religion and the Reflective Judgment” In Margit Ruffing, Claudio La Rocca, Alfredo Ferrarin & Stefano Bacin (eds.), Kant Und Die Philosophie in Weltbürgerlicher Absicht: Akten des Xi. Kant-Kongresses 2010. De Gruyter. (2013)
-
-## Book Reviews
-- [Review of Edward Kanterian, Kant, God and Metaphysics: The Secret Thorn (Routledge 2017), The European Journal of Philosophy 27:3 (2019)](https://www.academia.edu/41005003/Review_of_Kant_God_and_Metaphysics_The_Secret_Thorn_by_Edward_Kanterian_Routledge_2017_xvii_444_pp._ISBN_10_13_9781138908581_hb_110_ISBN_10_13_9780203729588_eBook_35.99)
-
-## Articles under review
-- “Kant’s Teleology as the ‘True Apology’ to Leibniz’s Pre-Established Harmony”
+- “Kant’s Teleology as the True Apology to Leibniz’s Pre-Established Harmony”, in Edgar Valdez (ed.). Rethinking Kant Volume 7. Cambridge Scholars Publishing, forthcoming
 {{%expand "Abstract" %}}
 Should we take seriously Kant’s claim that his critical philosophy is the ‘true apology for Leibniz’? By exploring Kant’s attitude towards Leibniz’s doctrine of pre-established harmony, I argue that we should take it seriously because it sheds light on the development of Kant’s view about the role of teleology in science in general and in the life sciences in particular. I first present the general framework through which Kant appropriates Leibnizian doctrines as regulative ideals.  I then address Kant’s pre-critical engagement with pre-established harmony. While he rejected it as an account of causal relations between substances, he made extensive references to harmony between laws of nature. I argue that the critical development of this type of harmony allows Kant to appreciate one of Leibniz’s motivations in arguing for pre-established harmony, the compatibility of mechanistic and teleological causal laws. Finally, I show how this affinity becomes explicit in the Critique of the Power of Judgment in Kant’s novel position on the legitimacy of teleological explanations of organisms. I demonstrate this by pointing to Kant’s complex attitude towards 18th century theories of epigenesis.
 {{% /expand%}}
 
+## Book Reviews
+- [Review of Edward Kanterian, Kant, God and Metaphysics: The Secret Thorn (Routledge 2017), The European Journal of Philosophy 27:3 (2019)](https://www.academia.edu/41005003/Review_of_Kant_God_and_Metaphysics_The_Secret_Thorn_by_Edward_Kanterian_Routledge_2017_xvii_444_pp._ISBN_10_13_9781138908581_hb_110_ISBN_10_13_9780203729588_eBook_35.99)
+- Review of Edward Kanterian, Kant, God and Metaphysics: The Secret Thorn (Routledge 2017), The European Journal of Philosophy, 27:3 (2019).
+
 ## Work in progress
+- “Reconciling Best-System and Necessitation accounts of Kant on particular laws of nature”
 - “A Norm-Expressivist Account of Kant’s Regulative Ideas”
 - “Collective Hope and Political Activism”
 
@@ -152,8 +152,10 @@ __Historical research using computational methods:__ A planned project applies t
 {{% /expand%}}
 
 ## Selected presentations
+- "The Only Possible Proof", The Young Kant Conference, Northwestern University, May 23-25 2024
 - "Explanatory Harmony" (Panel on Leibniz's pre-established with Uri Eran, Reed Winegar and Ohad Nachtomy)
   - Israeli Philosophical Association Conference, Hebrew U Jerusalem, 30 Jun 2022
+  -	Leibniz Congress 31.7-5.8 2023, Hanover Germany
 - "The Unity of Kant's Attitude Toward Leibniz's Pre-Established Harmony"
   - Workshop on Teleology, Mechanism, and the Mind-Body Problem between Leibniz and Kant, Technion, 23-25 May 2022
 - "Collective Hope and Political Activism"
