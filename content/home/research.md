@@ -114,7 +114,7 @@ distinction between the intelligible and the sensible worlds.
 - “Kant’s Religion and the Reflective Judgment” In Margit Ruffing, Claudio La Rocca, Alfredo Ferrarin & Stefano Bacin (eds.), Kant Und Die Philosophie in Weltbürgerlicher Absicht: Akten des Xi. Kant-Kongresses 2010. De Gruyter. (2013)
 
 ## Book Reviews
-- Review of Ian Proops, The Fiery Test of Critique: A Reading of Kant's Dialectic (OUP 2021), Archiv für Geschichte der Philosophie (forthcoming)
+- [Review of Ian Proops, The Fiery Test of Critique: A Reading of Kant's Dialectic (OUP 2021), Archiv für Geschichte der Philosophie (2023)](https://www.academia.edu/108756190/Review_of_Ian_Proops_The_Fiery_Test_of_Critique_A_Reading_of_Kants_Dialectic_OUP_2021_)
 - [Review of Edward Kanterian, Kant, God and Metaphysics: The Secret Thorn (Routledge 2017), The European Journal of Philosophy 27:3 (2019)](https://www.academia.edu/41005003/Review_of_Kant_God_and_Metaphysics_The_Secret_Thorn_by_Edward_Kanterian_Routledge_2017_xvii_444_pp._ISBN_10_13_9781138908581_hb_110_ISBN_10_13_9780203729588_eBook_35.99)
 
 ## Work in progress
