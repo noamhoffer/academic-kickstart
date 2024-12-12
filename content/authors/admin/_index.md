@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Assistant Professor at Bar-Ilan University
+bio: Lecturer at Bar-Ilan University
 
 AOS:
 - Kant
