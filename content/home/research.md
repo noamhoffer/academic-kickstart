@@ -157,6 +157,7 @@ __Historical research using computational methods:__ A planned project applies t
 {{% /expand%}}
 
 ## Selected presentations
+- "An expressivist account of Kant’s regulative ideas", 14th International Kant Congress, Bonn, 8-13 September 2024
 - "The Only Possible Proof", The Young Kant Conference, Northwestern University, May 23-25 2024
 - "Explanatory Harmony" (Panel on Leibniz's pre-established with Uri Eran, Reed Winegar and Ohad Nachtomy)
   - Israeli Philosophical Association Conference, Hebrew U Jerusalem, 30 Jun 2022
