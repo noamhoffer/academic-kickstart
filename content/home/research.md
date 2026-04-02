@@ -133,7 +133,7 @@ distinction between the intelligible and the sensible worlds.
 - [Review of Edward Kanterian, Kant, God and Metaphysics: The Secret Thorn (Routledge 2017), The European Journal of Philosophy 27:3 (2019)](https://www.academia.edu/41005003/Review_of_Kant_God_and_Metaphysics_The_Secret_Thorn_by_Edward_Kanterian_Routledge_2017_xvii_444_pp._ISBN_10_13_9781138908581_hb_110_ISBN_10_13_9780203729588_eBook_35.99)
 
 ## Digital Humanities
-__Kant Reflexionin__ online database:
+__Kant Reflexionen__ online database:
 [https://kant-reflexionen.onrender.com/](https://kant-reflexionen.onrender.com/)
 
 a tool for browsing and searching Kant's Reflexionen from the Akademie-Ausgabe (AA 14–19). 
