@@ -134,12 +134,15 @@ distinction between the intelligible and the sensible worlds.
 
 ## Digital Humanities
 __Kant Reflexionin__ online database:
-[https://kant-reflexionen.onrender.com/] (https://kant-reflexionen.onrender.com/)
+[https://kant-reflexionen.onrender.com/](https://kant-reflexionen.onrender.com/)
+
 a tool for browsing and searching Kant's Reflexionen from the Akademie-Ausgabe (AA 14–19). 
+
 The advantages over the digitized version on korpora.org/kant (on which this is based):
-  1. Can jump to a specific reflexion
-  2. Cross references to the source textbook passages Kant was annotating (if they are available on korpora.org)
-  3. In addition to the ability to search the full text, the tool lets filter by topic or date range (according the Adickes's datings)
+  1. Can jump to a specific reflexion.
+  2. Cross references to the source textbook passages Kant was annotating (if they are available on korpora.org).
+  3. In addition to the ability to search the full text, the tool lets filter by topic or date range (according the Adickes's datings).
+
 Developed with help from Claude AI.
 
 
