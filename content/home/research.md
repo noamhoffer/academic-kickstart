@@ -132,8 +132,18 @@ distinction between the intelligible and the sensible worlds.
 - [Review of Ian Proops, The Fiery Test of Critique: A Reading of Kant's Dialectic (OUP 2021), Archiv für Geschichte der Philosophie (2023)](https://www.academia.edu/108756190/Review_of_Ian_Proops_The_Fiery_Test_of_Critique_A_Reading_of_Kants_Dialectic_OUP_2021_)
 - [Review of Edward Kanterian, Kant, God and Metaphysics: The Secret Thorn (Routledge 2017), The European Journal of Philosophy 27:3 (2019)](https://www.academia.edu/41005003/Review_of_Kant_God_and_Metaphysics_The_Secret_Thorn_by_Edward_Kanterian_Routledge_2017_xvii_444_pp._ISBN_10_13_9781138908581_hb_110_ISBN_10_13_9780203729588_eBook_35.99)
 
+## Digital Humanities
+__Kant Reflexionin__ online database:
+[https://kant-reflexionen.onrender.com/] (https://kant-reflexionen.onrender.com/)
+a tool for browsing and searching Kant's Reflexionen from the Akademie-Ausgabe (AA 14–19). 
+The advantages over the digitized version on korpora.org/kant (on which this is based):
+  1. Can jump to a specific reflexion
+  2. Cross references to the source textbook passages Kant was annotating (if they are available on korpora.org)
+  3. In addition to the ability to search the full text, the tool lets filter by topic or date range (according the Adickes's datings)
+Developed with help from Claude AI.
+
+
 ## Work in progress
-- “Reconciling Best-System and Necessitation accounts of Kant on particular laws of nature”
 - “A Norm-Expressivist Account of Kant’s Regulative Ideas”
 - “Collective Hope and Political Activism”
 
