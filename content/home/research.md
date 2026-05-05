@@ -162,7 +162,7 @@ Title: Kant's Theoretical Conception of God
 {{%expand "History of Philosophy"%}}
 ​Extending my work on Kant’s philosophy of religion, I am planning to work on the following papers. One is a paper about the role of God in the Critique of the Power of Judgment. I explain why the faculty of reflective judgment is introduced as an addition to the faculty of reason by relating it to the notion of God as an intuitive intellect. A second paper is about the relation between Kant’s moral and theoretical conceptions of God. While acknowledging Kant’s repeated claims about the superiority of the moral conception over the theoretical one, I argue that the latter informs in a significant way the former regarding its content and its epistemic status. 
 
-In addition to Kant, I am interested in working on less-researched figures in late 18th and early 19th century German philosophy. One article under review is about Moses Mendelssohn’s proof for the existence of God in the Morning Hours (see above). In another paper, I plan to explore the theological position of Lessing’s Christianity of Reason and Mendelssohn’s charitable appropriation of it in the Morning Hours. I suggest that these texts present an interesting theological alternative vis-à-vis Kant on the one hand and rationalism on the other hand. 
+In addition to Kant, I am interested in working on less-researched figures in 18th century philosophy. One paper reconstructs Richard Price's proofs for the existence of God. I argue that it belongs to a family of modal proofs stemming from Augustine through Ralph Cudworth. I compare this lineage to Leibniz's and Kant's Modal proofs. In another paper, I plan to explore the theological position of Lessing’s Christianity of Reason and Mendelssohn’s charitable appropriation of it in the Morning Hours. I suggest that these texts present an interesting theological alternative vis-à-vis Kant on the one hand and rationalism on the other hand. 
 {{% /expand%}}
 
 {{%expand "Practical Philosophy"%}}
@@ -173,13 +173,13 @@ In one project inspired by Kant’s account of hope, I wish to investigate the r
 {{%expand "Digital Humanities"%}}
 Using my 15 years of experience in software engineering  I started to develop new research projects in Digital Humanities. 
 
-__Data visualization and research tools:__ My extensive use of the online version of Kant’s gesammelte Schriften archive led me to design various tools to improve its functionality. For example, I plan to build a database of Kant's handwritten notes (Reflexionen) adding visualizations of date ranges and cross-references to the location of the notes inside the books Kant owned (for example Baumgarten’s Metaphysics). I intend to make the tool publicly available through a web interface.  
-
 __Historical research using computational methods:__ A planned project applies the categorization of the PhilPapers database with textual topic modeling to analyze historical trends in Kant and early modern scholarship. By tracking the evolution of topics and their fluctuating significance over time in journal articles, I will be able to assess presumed trends, for example the rise of metaphysical readings of transcendental idealism, Kant’s philosophy of empirical sciences and his social-political philosophy. 
 
 {{% /expand%}}
 
 ## Selected presentations
+- "A modest defense of wokeness", Israeli Philosophical Association Conference, Bar-Ilan University, July 8th 2025
+- "Political blame and guilt", Israeli Philosophical Association Conference, University of Haifa, July 23rd 2024
 - "An expressivist account of Kant’s regulative ideas", 14th International Kant Congress, Bonn, 8-13 September 2024
 - "The Only Possible Proof", The Young Kant Conference, Northwestern University, May 23-25 2024
 - "Explanatory Harmony" (Panel on Leibniz's pre-established with Uri Eran, Reed Winegar and Ohad Nachtomy)
